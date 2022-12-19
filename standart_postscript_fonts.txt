@@ -1,0 +1,76 @@
+http://www.tug.org/fontname/html/Standard-PostScript-fonts.html
+
+A.1 Standard PostScript fonts
+
+Abbreviated names for the 35 standard PostScript fonts. An encoding variant, such as ‘8a’ for the Adobe ‘StandardEncoding’, is omitted.
+
+pagk
+    ‘AvantGarde-Book’
+pagko
+    ‘AvantGarde-BookOblique’
+pagd
+    ‘AvantGarde-Demi’
+pagdo
+    ‘AvantGarde-DemiOblique’
+pbkd
+    ‘Bookman-Demi’
+pbkdi
+    ‘Bookman-DemiItalic’
+pbkl
+    ‘Bookman-Light’
+pbkli
+    ‘Bookman-LightItalic’
+pcrb
+    ‘Courier-Bold’
+pcrbo
+    ‘Courier-BoldOblique’
+pcrr
+    ‘Courier’
+pcrro
+    ‘Courier-Oblique’
+phvb
+    ‘Helvetica-Bold’
+phvbo
+    ‘Helvetica-BoldOblique’
+phvbrn
+    ‘Helvetica-NarrowBold’
+phvbon
+    ‘Helvetica-NarrowBoldOblique’
+phvr
+    ‘Helvetica’
+phvro
+    ‘Helvetica-Oblique’
+phvrrn
+    ‘Helvetica-Narrow’
+phvron
+    ‘Helvetica-NarrowOblique’
+pncb
+    ‘NewCenturySchlbk-Bold’
+pncbi
+    ‘NewCenturySchlbk-BoldItalic’
+pncri
+    ‘NewCenturySchlbk-Italic’
+pncr
+    ‘NewCenturySchlbk-Roman’
+pplb
+    ‘Palatino-Bold’
+pplbi
+    ‘Palatino-BoldItalic’
+pplri
+    ‘Palatino-Italic’
+pplr
+    ‘Palatino-Roman’
+psyr
+    ‘Symbol’
+ptmb
+    ‘Times-Bold’
+ptmbi
+    ‘Times-BoldItalic’
+ptmri
+    ‘Times-Italic’
+ptmr
+    ‘Times-Roman’
+pzcmi
+    ‘ZapfChancery-MediumItalic’
+pzdr
+    ‘ZapfDingbats’ 
